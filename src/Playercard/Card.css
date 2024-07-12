@@ -1,0 +1,79 @@
+.card{
+    margin-top: 10vh;
+    border-radius: 10px;
+    width: 20vw;
+}
+.card-img img{
+    border-radius: 20px 20px 0px 0px;
+    height: 50vh;
+    width: 20vw;
+}
+.card-detail{
+    width: 20vw;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.card-name{
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.card-position{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.card-stats{
+    padding-bottom: 10px;
+    background-color: #9232F8;
+    border-radius: 0px 0px 20px 20px;
+}
+.stat-1{ 
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+.stat-2{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+.min{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+.minn{
+    padding-right: 5px;
+    font-size: 12px;
+    font-weight: 500;
+}
+.assist{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+.steal{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+.points{
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.card-stats hr{
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+

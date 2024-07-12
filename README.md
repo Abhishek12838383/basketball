@@ -1,1 +1,1 @@
-i have added a live link for it you can check
+I have given you a live link for this project for easy purpose
